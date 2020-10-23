@@ -1,0 +1,11 @@
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product Management.csprojAssemblyReference.cache
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product_Management.PL.Login_Form.resources
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product_Management.Properties.Resources.resources
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product Management.csproj.GenerateResource.cache
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product Management.csproj.CoreCompileInputs.cache
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\bin\Debug\Product Management.exe.config
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\bin\Debug\Product Management.exe
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\bin\Debug\Product Management.pdb
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product Management.exe
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product Management.pdb
+C:\Users\Fadi For Sec\source\repos\Product Management\Product Management\obj\Debug\Product_Management.PL.main_form.resources
